@@ -1,0 +1,5 @@
+The file model_rf_reg.joblib is a binary file that contains the trained Random Forest Regressor model. As such, it cannot be represented in a text format. To create this file, you would typically save a trained model using a library like joblib or pickle in Python. 
+
+Here is a comment indicating that this file is intentionally left blank for manual creation:
+
+# This file is intentionally left blank. Please save the trained Random Forest Regressor model using joblib to create this file.
